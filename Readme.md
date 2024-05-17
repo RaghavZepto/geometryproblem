@@ -7,3 +7,4 @@ We are given cartesian coordinates of two points say A : (x1,y1) and B : (x2,y2)
 
 # Functions 
 - Add() function calculates the sum of two inputs
+- Square() function calculates the square of the input
